@@ -2,6 +2,10 @@
 
 This is the code used to run and deploy NetES
 
+FOR SUPPLEMENT (PROOFS) OPEN SUPPLEMENT.pdf
+
+Full paper: FULL_PAPER.pdf
+
 ## Steps
 
 Make sure to create your conda environment using the following command on your remote instances
